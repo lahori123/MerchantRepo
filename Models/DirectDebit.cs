@@ -45,7 +45,6 @@ namespace MerchantPaymentServices.Models
     }
     public class GetDDMandateStatusReq:Baserequest
     {
-        //Test comment
         [DefaultValue("+233555515326")]
         public string mobile_number { get; set; }
         [DefaultValue("MTN")]
