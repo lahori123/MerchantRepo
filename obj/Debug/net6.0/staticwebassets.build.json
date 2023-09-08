@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0QyaYdd0Bb1xEo9of+NIb/t8l6GZL8kByBoAEh+eakg=",
+  "Source": "MerchantPaymentServices",
+  "BasePath": "_content/MerchantPaymentServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

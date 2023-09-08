@@ -1,0 +1,97 @@
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\appsettings.Development.json
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\appsettings.json
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.exe
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.deps.json
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.runtimeconfig.json
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.pdb
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.AssemblyReference.cache
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.AssemblyInfoInputs.cache
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.AssemblyInfo.cs
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.CoreCompileInputs.cache
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.MvcApplicationPartsAssemblyInfo.cs
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.MvcApplicationPartsAssemblyInfo.cache
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.build.json
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.development.json
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\scopedcss\bundle\MerchantPaymentServices.styles.css
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.CopyComplete
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\refint\MerchantPaymentServices.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.pdb
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.genruntimeconfig.cache
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\ref\MerchantPaymentServices.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\FluentValidation.dll
+D:\Waqas\Projects\FProject\Blazor Admin portal\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.AssemblyReference.cache
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.AssemblyInfoInputs.cache
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.AssemblyInfo.cs
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.CoreCompileInputs.cache
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.MvcApplicationPartsAssemblyInfo.cs
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.MvcApplicationPartsAssemblyInfo.cache
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\appsettings.Development.json
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\appsettings.json
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.exe
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.deps.json
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.runtimeconfig.json
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.pdb
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\FluentValidation.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.MerchantPaymentServices.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.build.MerchantPaymentServices.props
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MerchantPaymentServices.props
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MerchantPaymentServices.props
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.build.json
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.development.json
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\scopedcss\bundle\MerchantPaymentServices.styles.css
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.CopyComplete
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\refint\MerchantPaymentServices.dll
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.pdb
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.genruntimeconfig.cache
+E:\Fintectik Code\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\ref\MerchantPaymentServices.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\appsettings.Development.json
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\appsettings.json
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.exe
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.deps.json
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.runtimeconfig.json
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\MerchantPaymentServices.pdb
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\FluentValidation.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.AssemblyReference.cache
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.AssemblyInfoInputs.cache
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.AssemblyInfo.cs
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.CoreCompileInputs.cache
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.MvcApplicationPartsAssemblyInfo.cs
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.MvcApplicationPartsAssemblyInfo.cache
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.MerchantPaymentServices.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.build.MerchantPaymentServices.props
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MerchantPaymentServices.props
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MerchantPaymentServices.props
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.build.json
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\staticwebassets.development.json
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\scopedcss\bundle\MerchantPaymentServices.styles.css
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.csproj.CopyComplete
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\refint\MerchantPaymentServices.dll
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.pdb
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\MerchantPaymentServices.genruntimeconfig.cache
+E:\Merchant Payment Services API\MerchantPaymentServices\MerchantPaymentServices\MerchantPaymentServices\obj\Debug\net6.0\ref\MerchantPaymentServices.dll
